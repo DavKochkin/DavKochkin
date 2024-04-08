@@ -38,6 +38,11 @@ UIKit
 
 [SpotifyApp](https://github.com/DavKochkin/SpotifyApp)
 
+Combine
+
+[TipCalculator](https://github.com/DavKochkin/TipCalculator/tree/main)
+
+
 
 # My iOS Certificates 🏅
 
