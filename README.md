@@ -42,13 +42,7 @@ UIKit
 # My iOS Certificates 🏅
 
 
-[iOS SwiftUI.pdf](https://github.com/DavKochkin/BankeyApp/files/14906718/iOS.SwiftUI.pdf)
-
-[iOS UIKit .pdf](https://github.com/DavKochkin/BankeyApp/files/14906719/iOS.UIKit.pdf)
-
-[iOS & Swift- Combine.pdf](https://github.com/DavKochkin/BankeyApp/files/14906720/iOS.Swift-.Combine.pdf)
-
-[The Complete iOS App Development.pdf](https://github.com/DavKochkin/BankeyApp/files/14906721/The.Complete.iOS.App.Development.pdf)
+<img width="300" height="300" src="https://github.com/DavKochkin/BankeyApp/files/14906718/iOS.SwiftUI.pdf">
 
 
 
