@@ -44,6 +44,12 @@ UIKit
 
 <img width="350" height="250" src="https://github.com/DavKochkin/BankeyApp/files/14906718/iOS.SwiftUI.pdf">
 
+<img width="350" height="250" src="https://github.com/DavKochkin/BankeyApp/files/14906719/iOS.UIKit.pdf">
+
+<img width="350" height="250" src="https://github.com/DavKochkin/BankeyApp/files/14906720/iOS.Swift-.Combine.pdf">
+
+<img width="350" height="250" src="https://github.com/DavKochkin/BankeyApp/files/14906721/The.Complete.iOS.App.Development.pdf">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
