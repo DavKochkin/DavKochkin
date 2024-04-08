@@ -17,7 +17,22 @@ As an iOS developer, I specialize in creating intuitive and efficient applicatio
 + 👨‍💻 Data Structures and Algorithms
 + ⚙️ MVC, MVP, MVVM
 + ⚙️ Layout, StoryBoards, Xib
-+ ⚙️ Core data, Realm, Firebase 
++ ⚙️ Core data, Realm, Firebase
+
+
+# My iOS Portfolio 📱
+
+SwiftUI 
+
+![LearnLanguage](https://github.com/DavKochkin/LearnLanguage)
+![Appetizers](https://github.com/DavKochkin/Appetizers)
+![DubDubGrub](https://github.com/DavKochkin/DubDubGrubClone)
+
+UIKit
+
+![BankeyApp](https://github.com/DavKochkin/BankeyApp)
+![Schedule](https://github.com/DavKochkin/Schedule)
+![SpotifyApp](https://github.com/DavKochkin/SpotifyApp)
 
 
 <h3 align="left">Languages and Tools:</h3>
