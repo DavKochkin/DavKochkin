@@ -42,7 +42,7 @@ UIKit
 # My iOS Certificates 🏅
 
 
-<img width="300" height="300" src="https://github.com/DavKochkin/BankeyApp/files/14906718/iOS.SwiftUI.pdf">
+<img width="400" height="250" src="https://github.com/DavKochkin/BankeyApp/files/14906718/iOS.SwiftUI.pdf">
 
 
 
