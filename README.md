@@ -10,6 +10,8 @@ As an iOS developer, I specialize in creating intuitive and efficient applicatio
 - Email: davidkochkin@gmail.com
 - LinkedIn: www.linkedin.com/in/davidkochkin
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidkochkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kochkindavid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DavidKochkin)  
+
 # Skills 
 
 + 👨‍💻 Swift, UIKit, SwiftUI 
@@ -58,5 +60,5 @@ Combine
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davkochkin&show_icons=true&locale=en" alt="davkochkin" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidkochkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kochkindavid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DavidKochkin)  
+
 
